@@ -7,7 +7,7 @@
 - [React Handbook](https://reacthandbook.dev/)
 - [React Philosophies](https://github.com/mithi/react-philosophies)
 - [React Patterns](https://reactpatterns.com/)
-- [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [React Typescript Cheatsheet] (https://react-typescript-cheatsheet.netlify.app/)
 
 ## JavaScript
 
